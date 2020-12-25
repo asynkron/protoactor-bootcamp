@@ -59,7 +59,7 @@ In this module, you will learn how to create a self-recovering system.
 
 1. [Supervisor and actor hierarchy.](src/Unit-4/lesson-1/README.md)
 2. [Overview of the application that demonstrates the supervisor's capabilities and the actors hierarchy.](src/Unit-4/lesson-2/README.md)
-5. [Actor's addres and PID.](src/Unit-4/lesson-3/README.md)
+5. [Actor's address and PID.](src/Unit-4/lesson-3/README.md)
 6. [Creating UserCoordinatorActor.](src/Unit-4/lesson-4/README.md)
 7. [Creating MoviePlayCounterActor.](src/Unit-4/lesson-5/README.md)
 8. [How parent actors are watching over their children actors.](src/Unit-4/lesson-6/README.md)
