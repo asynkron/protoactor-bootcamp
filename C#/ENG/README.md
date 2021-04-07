@@ -12,7 +12,7 @@ This course is for self-study — you can do it at any pace you like.
 
 ### What will you learn from this course
 
-In this course, you will learn how to use Proto.Actor Flamework to create reactive, parallel systems. You will learn how to develop applications that seemed impossible or very complicated before learning Proto.Actor Flamework. After this course, you will feel more confident in solving large and complex tasks.
+In this course, you will learn how to use Proto.Actor Framework to create reactive, parallel systems. You will learn how to develop applications that seemed impossible or very complicated before learning Proto.Actor Framework. After this course, you will feel more confident in solving large and complex tasks.
 
 ### Module 1: Introduction to Actor Model and Proto.Actor
 
